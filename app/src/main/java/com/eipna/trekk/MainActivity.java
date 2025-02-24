@@ -7,7 +7,7 @@ import android.os.Bundle;
 
 import com.eipna.trekk.databinding.ActivityMainBinding;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends BaseActivity {
 
     private ActivityMainBinding binding;
 
