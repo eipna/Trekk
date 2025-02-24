@@ -1,4 +1,4 @@
-package com.eipna.trekk;
+package com.eipna.trekk.ui.activities;
 
 import android.os.Bundle;
 

@@ -1,10 +1,10 @@
-package com.eipna.trekk;
+package com.eipna.trekk.ui.activities;
 
 import androidx.activity.EdgeToEdge;
-import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import com.eipna.trekk.R;
 import com.eipna.trekk.databinding.ActivityMainBinding;
 
 public class MainActivity extends BaseActivity {
