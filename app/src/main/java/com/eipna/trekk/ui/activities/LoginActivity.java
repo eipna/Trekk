@@ -45,8 +45,10 @@ public class LoginActivity extends AppCompatActivity {
             String password = binding.passwordEditText.getText().toString().trim();
 
             if (validateInput(email, password)) {
-                // TODO: Implement login logic
-                Snackbar.make(binding.getRoot(), "Login functionality coming soon!", Snackbar.LENGTH_SHORT).show();
+                // Navigate to tutorial
+                Intent intent = new Intent(this, TutorialActivity.class);
+                startActivity(intent);
+                finish(); // Close login activity
             }
         });
 
