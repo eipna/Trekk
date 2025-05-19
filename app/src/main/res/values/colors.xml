@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="ic_launcher_background">#FDFDEE</color>
     <color name="md_theme_primary">#4C662B</color>
@@ -141,4 +142,17 @@
     <color name="md_theme_surfaceContainer_highContrast">#E2E3D8</color>
     <color name="md_theme_surfaceContainerHigh_highContrast">#D4D5CA</color>
     <color name="md_theme_surfaceContainerHighest_highContrast">#C6C7BD</color>
+    <color name="primary">#FF6750A4</color>
+    <color name="primary_dark">#FF4B3B7A</color>
+    <color name="primary_light">#FF9B8BC4</color>
+    <color name="secondary">#FF03DAC5</color>
+    <color name="secondary_dark">#FF018786</color>
+    <color name="background">#FFFFFFFF</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="error">#FFB00020</color>
+    <color name="on_primary">#FFFFFFFF</color>
+    <color name="on_secondary">#FF000000</color>
+    <color name="on_background">#FF000000</color>
+    <color name="on_surface">#FF000000</color>
+    <color name="on_error">#FFFFFFFF</color>
 </resources>
