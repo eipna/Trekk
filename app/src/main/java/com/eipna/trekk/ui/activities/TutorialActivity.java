@@ -58,7 +58,7 @@ public class TutorialActivity extends AppCompatActivity {
             "Welcome to Trekking!",
             "Trekking is an exciting outdoor activity that combines hiking and camping. " +
             "It's a great way to explore nature, challenge yourself, and create unforgettable memories.",
-            R.drawable.tutorial_welcome
+            R.drawable.illustration_welcome
         ));
         tutorialPages.add(new TutorialPage(
             "Essential Equipment",
@@ -70,7 +70,7 @@ public class TutorialActivity extends AppCompatActivity {
             "• Navigation tools (map, compass)\n" +
             "• Headlamp/flashlight\n" +
             "• Multi-tool or knife",
-            R.drawable.tutorial_equipment
+            R.drawable.illustration_equip
         ));
         tutorialPages.add(new TutorialPage(
             "Safety First",
@@ -81,7 +81,7 @@ public class TutorialActivity extends AppCompatActivity {
             "• Carry enough water and food\n" +
             "• Know basic first aid\n" +
             "• Respect wildlife and nature",
-            R.drawable.tutorial_safety
+            R.drawable.illustration_safety
         ));
         tutorialPages.add(new TutorialPage(
             "Physical Preparation",
@@ -92,7 +92,7 @@ public class TutorialActivity extends AppCompatActivity {
             "• Know your limits\n" +
             "• Take regular breaks\n" +
             "• Listen to your body",
-            R.drawable.tutorial_preparation
+            R.drawable.illustration_prepare
         ));
         tutorialPages.add(new TutorialPage(
             "Leave No Trace",
@@ -103,7 +103,7 @@ public class TutorialActivity extends AppCompatActivity {
             "• Minimize campfire impact\n" +
             "• Be considerate of other hikers\n" +
             "• Leave nature as you found it",
-            R.drawable.tutorial_leave_no_trace
+            R.drawable.illustration_trace
         ));
     }
 
